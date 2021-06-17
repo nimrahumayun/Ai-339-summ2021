@@ -4,4 +4,4 @@ StdID | Name
 ------------ | -------------
 **64083** | **Nimra Humayun** 
 64049 | Muzammil Maqsood
-64068 | Haider Ali
+64068 | Hyder Ali
