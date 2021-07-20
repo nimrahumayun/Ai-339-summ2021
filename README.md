@@ -43,6 +43,7 @@ we used the same set of features as in the assignment in the first time around t
 
 ### Third Set of Features ###
 we used the same set of features as in the assignment and then we performed feature scaling using sklearn StandardScaler the cross-validation gave following outputs
+
 ![screenshot](https://github.com/nimrahumayun/Ai-339-summ2021/blob/main/f3.png)
 # Kaggle Ouput for Logistic Regression #
 ![screenshot](https://github.com/nimrahumayun/Ai-339-summ2021/blob/main/l3.PNG)
