@@ -23,6 +23,7 @@ We got the best score from the first of features we used in which we generated a
 ### First Set of Features ###
 
 we used existing features and generate arifical features from it for training classification the cross-validation gave following outputs
+
 ![screenshot](https://github.com/nimrahumayun/Ai-339-summ2021/blob/main/f1.png)
 # Kaggle Ouput for Logistic Regression #
 ![screenshot](https://github.com/nimrahumayun/Ai-339-summ2021/blob/main/l1.PNG)
@@ -33,6 +34,7 @@ we used existing features and generate arifical features from it for training cl
 
 ### Second Set of Features ###
 we used the same set of features as in the assignment in the first time around the cross-validation gave following outputs
+
 ![screenshot](https://github.com/nimrahumayun/Ai-339-summ2021/blob/main/f2.png)
 # Kaggle Ouput for Logistic Regression #
 ![screenshot](https://github.com/nimrahumayun/Ai-339-summ2021/blob/main/l2.PNG)
