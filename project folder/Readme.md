@@ -1,4 +1,4 @@
-# Ai-339-summ2021 : Assignment #
+# Ai-339-summ2021 Project #
 ### PROJECT MEMBERS ###
 StdID | Name
 ------------ | -------------
